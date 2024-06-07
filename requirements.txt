@@ -1,0 +1,6 @@
+numpy
+pandas
+scipy
+torch==1.12.0
+torchvision==0.13.1
+opacus==1.1.2
